@@ -4,6 +4,8 @@ Created on Sun Jun 25 17:12:13 2023
 @author: Pedro
 """
 
+#Exercício 4 10793_02/L 
+
 # Importação da biblioteca Pandas para a realização de uma análise de dados
 import pandas as pd
 
