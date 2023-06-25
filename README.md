@@ -1,0 +1,1 @@
+# An-lise_Consumo-energia-eletrica_10793_02L_W4
