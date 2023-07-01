@@ -25,7 +25,7 @@ print(dados_portugal)
 consumo_inicial = dados_portugal['1990 [YR1990]'].values[0]
 consumo_final = dados_portugal['2000 [YR2000]'].values[0]
 
-#definição para calcular a variaçãp
+# tarefa 3 > definição para calcular a variaçãp
 def calcular_variacao_percentual(consumo_inicial, consumo_final):
     return (consumo_final - consumo_inicial) / consumo_inicial * 100
 
